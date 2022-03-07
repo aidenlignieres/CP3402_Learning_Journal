@@ -8,7 +8,7 @@
 
 ## Estimated Hours:
 
-- 
+- 2 hours
 
 ## Content Insights:
 
