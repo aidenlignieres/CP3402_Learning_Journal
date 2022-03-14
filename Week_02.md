@@ -23,3 +23,4 @@ Upon looking for templates it was very noticeable that some templates was more c
 
 ## Career/Employability/Learning Insights:
 
+While watching videos and reading documents bored me it was comparitive that when i asked for Calebs help we were able to collaborate was had shown exceptiable working to completeing the prac and bouncing possible ways to upload joomla to a active site
