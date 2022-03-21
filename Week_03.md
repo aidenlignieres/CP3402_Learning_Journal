@@ -1,8 +1,10 @@
 ## Learning Activities:
 Group Interview to find potential group members for next assessment also to find which questions are better suited to get informantion to find best suited members
+Experimented/learn with wordpress
 
 ## Resources/Links:
 - Theme link https://en-au.wordpress.org/themes/indika-blog/
+- color code https://www.colorhexa.com/
 
 ## Estimated Hours:
 - 10 hours
