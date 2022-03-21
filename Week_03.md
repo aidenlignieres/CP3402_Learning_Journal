@@ -8,6 +8,6 @@ Group Interview to find potential group members for next assessment also to find
 - 10 hours
 
 ## Content Insights:
-While interviewing there was questions which is too basic for asking and would only get a one word or sentence so while interviewing different people it was parimont to find a
+While interviewing there was questions which were too basic for asking and would only get a one word or sentence so while interviewing different people it was parimont to find a more suitable question which would allow more information to be given.
 
 ## Career/Employability/Learning Insights:
