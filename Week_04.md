@@ -8,7 +8,7 @@ I installed vagrant and scotch-box in previous weeks for a practicals and have b
 - 2 hours
 
 ## Content Insights:
-
+Had to learn how to use vagrant, scotch-box and PuTTY after installation by following the lightsail docuementation.
 
 ## Career/Employability/Learning Insights:
 
