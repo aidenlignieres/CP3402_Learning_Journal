@@ -8,9 +8,8 @@
 - [x] Week_03
 - [x] Week_04
 - [ ] Week_05
-- [ ] Week_06
+- [x] Week_06
 - [ ] Week_07
 - [ ] Week_08
 - [ ] Week_09
-- [ ] Week_10
-- [ ] Week_11
+- [x] Week_10
